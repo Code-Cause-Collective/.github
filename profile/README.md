@@ -14,7 +14,7 @@
 
 Our purpose is to tackle global challenges - big and small - ranging from efficiency and waste management to climate change, health crises, and beyond. Together, we are stronger - combining our unique perspectives, ideas, and skills to tackle the world’s toughest problems. All for good, all for change. 
 
-**We believe anything is possible** - focusing on what *we can do*, not what we can’t. We encourage our community to dream, work, build, and create. We fail forward while staying continuous in purpose to developing solutions that help humanity. **We lead by being proactive and by taking action**. As a community, we work deliberately to bring about the positive change we want to see in the world.
+**We believe anything is possible** - focusing on what *we can do*, not what we can’t. We encourage our community to dream, work, build, and create. We fail forward while staying continuous in purpose to develop solutions that help humanity. **We lead by being proactive and by taking action**. As a community, we work deliberately to bring about the positive change we want to see in the world.
 
 ---
 
