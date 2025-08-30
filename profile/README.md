@@ -6,9 +6,7 @@
 
 # 👋 Welcome, much peace and love
 
-**Code Cause** is a non-profit, tech-driven community of developers, united in creating solutions that serve the greater good of humanity. **We focus** on uniting developers to build a future driven by purpose, innovation, and good faith — bridging imagination with action to shape a better tomorrow through technology.
-
-> **Note:** By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our community participation guidelines.  
+**Code Cause** is a non-profit, tech-driven community of developers, united in creating solutions that serve the greater good of humanity. **We focus** on uniting developers to build a future driven by purpose, innovation, and good faith - bridging imagination with action to shape a better tomorrow through technology.
 
 ---
 
